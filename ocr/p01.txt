@@ -1,0 +1,11 @@
+rs Language School
+
+Leade:
+
+P PIÉNOM : nn $
+PT Classe : nn Ÿe
+AA ANNÉE SCOAITE : nn. 4
+
+Co] 3ère préparatoire - 1 semestre
+
+[cs] CamScanner
